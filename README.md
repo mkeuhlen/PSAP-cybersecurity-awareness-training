@@ -137,4 +137,4 @@ knowledge of the PSAP / public-safety threat landscape.
 **Michael Keuhlen**
 LinkedIn - www.linkedin.com/in/michaelkeuhlen
 
-Email - m.keuhlen@proton.me
+Email - michael.keuhlen@proton.me
