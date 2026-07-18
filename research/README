@@ -1,0 +1,28 @@
+# PSAP Cybersecurity Research
+
+Academic research applying established security frameworks and 
+original investigation methods to cyber resilience in Public Safety 
+Answering Point (PSAP) environments.
+
+## Papers
+
+### [`security-operations-psap-resilience.docx`](./security-operations-psap-resilience.docx)
+**Security Operations in Public Safety: Applying the CISSP Incident 
+Lifecycle to PSAP Cyber Resilience**
+
+Applies the CISSP Domain 7 (Security Operations) incident management 
+lifecycle to the PSAP environment, using the 2016 Arizona telephony 
+denial of service (TDoS) incident as a case study. Covers preparation 
+and prevention, detection and analysis, response and containment, and 
+recovery and post-incident improvement, with practical recommendations 
+for PSAP technical leaders.
+
+### [`tdos-mitigation-investigation.docx`](./tdos-mitigation-investigation.docx)
+**Investigation into Mitigating Telephony Denial of Service Threats to 
+PSAPs Through Layered Security Practices**
+
+A management investigation report combining a literature review, a 
+structured interview with a PSAP director, and an original public 
+survey to assess how layered TDoS mitigation strategies (call 
+filtering, geo-fencing, policy-based routing) are understood and 
+implemented in practice versus industry standards (NENA).
